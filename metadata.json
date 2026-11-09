@@ -1,0 +1,6 @@
+{
+  "name": "AURA Athletic Club",
+  "description": "Austin's premier luxury athletic club and recovery sanctuary featuring Olympic lifting, biometric coaching, and contrast therapy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
