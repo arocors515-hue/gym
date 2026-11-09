@@ -18,13 +18,13 @@ export const CLUB_INFO = {
 };
 
 export const IMAGES = {
-  hero: '/src/assets/images/hero_gym_aesthetic_1794216159698.jpg',
-  facilityContrast: '/src/assets/images/facility_contrast_therapy_1794216160993.jpg',
-  facilityTurf: '/src/assets/images/facility_turf_arena_1794216162634.jpg',
-  marcus: '/src/assets/images/trainer_marcus_vance_1794216163109.jpg',
-  elena: '/src/assets/images/trainer_elena_rostova_1794216162845.jpg',
-  kai: '/src/assets/images/trainer_kai_tanaka_1794216180525.jpg',
-  sarah: '/src/assets/images/trainer_dr_sarah_jenkins_1794216181680.jpg',
+  hero: '/images/hero_gym_aesthetic.jpg',
+  facilityContrast: '/images/facility_contrast_therapy.jpg',
+  facilityTurf: '/images/facility_turf_arena.jpg',
+  marcus: '/images/trainer_marcus_vance.jpg',
+  elena: '/images/trainer_elena_rostova.jpg',
+  kai: '/images/trainer_kai_tanaka.jpg',
+  sarah: '/images/trainer_dr_sarah_jenkins.jpg',
 };
 
 export const MEMBERSHIP_PLANS: MembershipPlan[] = [
